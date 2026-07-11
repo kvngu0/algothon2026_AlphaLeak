@@ -3,5 +3,5 @@
 # Contributors
 
 * Kevin Nguyen
-* ...
+* Declan Whitty
 
